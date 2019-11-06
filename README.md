@@ -1,41 +1,4 @@
-# A Basic React Starter
-## For Your Convenience
-
-This project was created to act as an initial react project to quickly make projects.
-It was covered in my tutorial of [Creating an Organized React App](https://medium.com/swlh/creating-a-create-react-project-e0f022a229ee). 
-
-## Getting Started
-### Prerequisites
-- Git (duh.)
-- [Yarn](https://yarnpkg.com/lang/en/docs/install/)
-- A positive attitude
-### Lets Get To It
-1. Clone this project:
-~~~ 
-$ git clone https://github.com/ReesMcD/react-starter.git
-~~~ 
-
-2. Move to project and install dependencies:
-~~~ 
-$ cd react-starter
-$ npm install
-~~~~
-3. Start The project:
-~~~ 
-$ yarn start
-~~~ 
-
-#### Or
-Do the cool templete stuff that GitHub has added.
-
-## Project Dependencies
-While I wanted to keep this starter fairly lightweight I did want to have some initial dependencies installed.
-
-- [React](https://reactjs.org/docs/create-a-new-react-app.html)
-- [React-Router](https://reacttraining.com/react-router/web/guides/quick-start)
-- [Axios](https://github.com/axios/axios)
-
-## Available Scripts
+﻿## Available Scripts
 
 In the project directory, you can run:
 
